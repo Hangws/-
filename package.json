@@ -1,6 +1,6 @@
 {
   "name": "RTmen",
-  "productName": "RTmen",
+  "productName": "草莓干",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": "src/main.js",
@@ -29,7 +29,8 @@
         ]
       },
       "electronPackagerConfig": {
-        "packageManager": "npm"
+        "packageManager": "npm",
+        "asar": true
       },
       "electronWinstallerConfig": {
         "name": "rtmen"
