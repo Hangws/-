@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var arr = new Array()
 var str1 = "那个冒泡泡的曾经，真是太幸福了。"
 var str2 = "想你的心克制不住，不过是因为想你了。"
@@ -8,7 +7,6 @@ var str5 = "希望我能给你一生幸福，让你此生安乐。"
 var str6 = "以梦为马,诗酒趁年华."
 var str7 = "所爱隔山海，山海亦可平。"
 arr.push(str1,str2,str3,str4,str5,str6,str7)
-=======
 var arr = new Array();
 var str1 = "那个冒泡泡的曾经，真是太幸福了。";
 var str2 = "想你的心克制不住，不过是因为想你了。";
