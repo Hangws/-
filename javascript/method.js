@@ -15,7 +15,6 @@ var str4 = "阳光正好，你也正好。";
 var str5 = "希望我能给你一生幸福，让你此生安乐。";
 var str6 = "以梦为马,诗酒趁年华."
 arr.push(str1,str2,str3,str4,str5,str6)
->>>>>>> 58dcb7a44ae026027602a916acd6b0ab097533ef
 // 展示文字
 function showText(event){
   var random = Math.floor(Math.random()*arr.length);  //可均衡获取0到数组长度的的随机整数。
